@@ -31,5 +31,11 @@ The extensions I added to gnome are:
 
 The look is mostly there to replicate the windows or kde taskbar.
 
+Future additions:
+- Flatpak installed
+- Some kind of theme
+- A second desktop environment
+  
+
 I don't really know what else to include in this repository or this readme. Any assistance is appreciated.
 
